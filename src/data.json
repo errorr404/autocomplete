@@ -1,0 +1,8296 @@
+{
+"debit": 1,
+"trains": [
+{
+"classes": [],
+"number": "11011",
+"days": [],
+"name": "LTT-NED EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11012",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "NED-LTT  EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11017",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-KIK WEEKLY EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11018",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "KARAIKAL LTT EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11043",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-MADURAI EXPRESS(W)"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11054",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "AMH-LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11060",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "CPR LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11061",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-DBG  EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11062",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "DBG  LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11073",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-MAS EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11074",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "CHENNAI - LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11075",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-BIDR EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11076",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "BIDR-LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11081",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-GKP VIA COI"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11082",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "GKP-LTT VIA COI"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11083",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-KZJ TADOBA EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11084",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "KZJ-LTT TADOBA EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "Y",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11085",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-MAO DOUBLE DECKER EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "Y",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11086",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "MAO-LTT DOUBLE DECKER EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11201",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-AJNI EXP VIA NED"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11205",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-NZB EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12101",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT HWH JNANESWARI DELX"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12107",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-LJN EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12108",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LJN-LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "Y",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "Y",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12117",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT MANMAD EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12143",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-SLN SF EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12145",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-PURI WEEKLY EXP."
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12146",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "PURI-LTT WEEKLY EXP."
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12153",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-HBJ EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12142",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "PPTA-LTT SF EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12520",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "KYQ-LTT AC EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12151",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT HWH SAMARSATA EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12152",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "HWH-LTT SAMRASTA EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12154",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "HBJ-LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12165",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT BSB SUP EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12166",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "BSB LTT SUP EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12167",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT(T)-BSB SF EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12168",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "BSB-LTT SF EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12172",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "HW - LTT SUPER FAST EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12173",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-CNB EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12174",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "CNB-LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "Y",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12202",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT GARIB RATH"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12219",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-SC AC DURONTO EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12220",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "SC-LTT AC DURONTO EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12223",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-ERS DURONTO EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12224",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "ERS-LTT DURONTO EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12293",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-ALD DURANTO EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12294",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "ALD-LTT DURANTO EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12336",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-BGP EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12519",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-KYQ AC EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12542",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-GKP-SUPER-FAST"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12811",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT HTE EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12812",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "HTE LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12879",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-BBS BI-WEEKLY"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "13201",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "RJPB LTT EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "13202",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT  RJPB EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "14313",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-BE EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "14314",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-BE EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15018",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "GKP-LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15063",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "GKP-LTT EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15064",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-GKP EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "-",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "-",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "-",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "-",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "-",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "-",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "-",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "-",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15267",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "RXL-LTT JANSADHARAN EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "-",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "-",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "-",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "-",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "-",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "-",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "-",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "-",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15268",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-RXL JANSADHARAN EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "-",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "-",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "-",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "-",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "-",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "-",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "-",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "-",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15547",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "JYG-LTT JANSADHARAN EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "-",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "-",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "-",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "-",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "-",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "-",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "-",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "-",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15548",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-JYG JANSADHARAN EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15645",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-GHY EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15646",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "GHY-LTT EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15648",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "GHY-LTT EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "17221",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "COA-LTT EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "17222",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-COA EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "17321",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "UBL-LTT WEEKLY EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "17322",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-UBL WEEKLY EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "18029",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-SHM-KURLA T EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "18030",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "SHM LTT KURLA T EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "18519",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "VSKP-LTT EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "18520",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-VSKP EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "18609",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "RNC LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "18610",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT RNC WEEKLY EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "-",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "-",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "-",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "-",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "-",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "-",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "-",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "-",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "21067",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-PBH-RBL EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22103",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-FD EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22104",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "FD-LTT SUPER FAST EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22109",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT NZM AC EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22110",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "NZM LTT AC EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22113",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-KCVL BI-WEEKLY EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22114",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "KCVL-LTT BI-WEEKLY SF EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22115",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-KRMI AC SUPER FAST"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22116",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "KRMI-LTT AC SUPER FAST"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22121",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-LKO AC SF EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22122",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LKO-LTT AC SF EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22127",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-KZJ ANANDWAN EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22128",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "KZJ-LTT ANANDWAN EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22847",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "VSKP-LTT S/F WEEKLY"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22848",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-VSKP S/F WEEKLY"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22865",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-PURI S/F WEEKLY"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22866",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "PURI-LTT S/F WEEKLY"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "-",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "-",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "-",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "-",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "-",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "-",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "-",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "-",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22886",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "TATA-LTT ANTYODAYA EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12541",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "GKP-LTT-SUPER-FAST"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "15647",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-GHY EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "21068",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "RBL-PBH-LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "-",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "-",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "-",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "-",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "-",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "-",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "-",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "-",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "22885",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-TATA ANTYODAYA EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12880",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "BBS-LTT BI-WEEKLY"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12144",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "SLN LTT SF EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "Y",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "Y",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12118",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "MANMAD LTT EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11202",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "AJNI-LTT EXP VIA HINGOLI"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11053",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-AMH EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12171",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT - HW SUPER FAST EXP"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11080",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "GKP-LTT EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "N",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "N",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11079",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "N"
+}
+],
+"name": "LTT-GKP EXPRESS"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "N",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "N",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "11206",
+"days": [
+{
+"code": "MON",
+"runs": "N"
+},
+{
+"code": "TUE",
+"runs": "N"
+},
+{
+"code": "WED",
+"runs": "N"
+},
+{
+"code": "THU",
+"runs": "N"
+},
+{
+"code": "FRI",
+"runs": "N"
+},
+{
+"code": "SAT",
+"runs": "N"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "NZB-LTT WEEKLY"
+},
+{
+"classes": [
+{
+"code": "2A",
+"available": "Y",
+"name": "SECOND AC"
+},
+{
+"code": "1A",
+"available": "Y",
+"name": "FIRST AC"
+},
+{
+"code": "FC",
+"available": "N",
+"name": "FIRST CLASS"
+},
+{
+"code": "3A",
+"available": "Y",
+"name": "THIRD AC"
+},
+{
+"code": "2S",
+"available": "N",
+"name": "SECOND SEATING"
+},
+{
+"code": "SL",
+"available": "Y",
+"name": "SLEEPER CLASS"
+},
+{
+"code": "3E",
+"available": "N",
+"name": "3rd AC ECONOMY"
+},
+{
+"code": "CC",
+"available": "N",
+"name": "AC CHAIR CAR"
+}
+],
+"number": "12141",
+"days": [
+{
+"code": "MON",
+"runs": "Y"
+},
+{
+"code": "TUE",
+"runs": "Y"
+},
+{
+"code": "WED",
+"runs": "Y"
+},
+{
+"code": "THU",
+"runs": "Y"
+},
+{
+"code": "FRI",
+"runs": "Y"
+},
+{
+"code": "SAT",
+"runs": "Y"
+},
+{
+"code": "SUN",
+"runs": "Y"
+}
+],
+"name": "LTT-PPTA EXPRESS"
+}
+],
+"response_code": 200
+}
